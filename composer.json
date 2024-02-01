@@ -1,0 +1,13 @@
+{
+  "name": "ktanggre/328/week5",
+  "description": "My MVC week5 Application",
+  "authors": [
+    {
+      "name": "Kasyn Tang",
+      "email": "ktang520@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
